@@ -1,20 +1,31 @@
 {
   "files": {
-    "main.css": "/timeline/static/css/main.e8ce0bb9.chunk.css",
-    "main.js": "/timeline/static/js/main.7e5b60db.chunk.js",
-    "main.js.map": "/timeline/static/js/main.7e5b60db.chunk.js.map",
+    "main.css": "/timeline/static/css/main.0ca82d30.chunk.css",
+    "main.js": "/timeline/static/js/main.a8af8bc6.chunk.js",
+    "main.js.map": "/timeline/static/js/main.a8af8bc6.chunk.js.map",
     "runtime-main.js": "/timeline/static/js/runtime-main.e6160d89.js",
     "runtime-main.js.map": "/timeline/static/js/runtime-main.e6160d89.js.map",
-    "static/js/2.8704481b.chunk.js": "/timeline/static/js/2.8704481b.chunk.js",
-    "static/js/2.8704481b.chunk.js.map": "/timeline/static/js/2.8704481b.chunk.js.map",
+    "static/js/2.84b48a16.chunk.js": "/timeline/static/js/2.84b48a16.chunk.js",
+    "static/js/2.84b48a16.chunk.js.map": "/timeline/static/js/2.84b48a16.chunk.js.map",
     "index.html": "/timeline/index.html",
-    "static/css/main.e8ce0bb9.chunk.css.map": "/timeline/static/css/main.e8ce0bb9.chunk.css.map",
-    "static/js/2.8704481b.chunk.js.LICENSE.txt": "/timeline/static/js/2.8704481b.chunk.js.LICENSE.txt"
+    "static/css/main.0ca82d30.chunk.css.map": "/timeline/static/css/main.0ca82d30.chunk.css.map",
+    "static/js/2.84b48a16.chunk.js.LICENSE.txt": "/timeline/static/js/2.84b48a16.chunk.js.LICENSE.txt",
+    "static/media/anti-asian-riots.5d4b870a.jpeg": "/timeline/static/media/anti-asian-riots.5d4b870a.jpeg",
+    "static/media/battle-of-midway.52b9ceb0.jpeg": "/timeline/static/media/battle-of-midway.52b9ceb0.jpeg",
+    "static/media/bomb.2f1b43a4.jpeg": "/timeline/static/media/bomb.2f1b43a4.jpeg",
+    "static/media/card.89c43514.jpeg": "/timeline/static/media/card.89c43514.jpeg",
+    "static/media/children.0c0a2435.png": "/timeline/static/media/children.0c0a2435.png",
+    "static/media/end-of-war.571f177a.jpeg": "/timeline/static/media/end-of-war.571f177a.jpeg",
+    "static/media/hong-kong.754557de.jpeg": "/timeline/static/media/hong-kong.754557de.jpeg",
+    "static/media/married.3deba8d4.png": "/timeline/static/media/married.3deba8d4.png",
+    "static/media/pearl-harbor.b08b5cfb.jpeg": "/timeline/static/media/pearl-harbor.b08b5cfb.jpeg",
+    "static/media/start-of-ww2.e3990f09.jpeg": "/timeline/static/media/start-of-ww2.e3990f09.jpeg",
+    "static/media/training.ab02fcab.png": "/timeline/static/media/training.ab02fcab.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e6160d89.js",
-    "static/js/2.8704481b.chunk.js",
-    "static/css/main.e8ce0bb9.chunk.css",
-    "static/js/main.7e5b60db.chunk.js"
+    "static/js/2.84b48a16.chunk.js",
+    "static/css/main.0ca82d30.chunk.css",
+    "static/js/main.a8af8bc6.chunk.js"
   ]
 }
